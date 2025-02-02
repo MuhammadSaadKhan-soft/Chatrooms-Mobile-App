@@ -1,6 +1,18 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![WhatsApp Image 2025-02-02 at 3 35 45 PM](https://github.com/user-attachments/assets/92e207f1-17ce-47fa-a9f6-855c716f54a1)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+![WhatsApp Image 2025-02-02 at 3 35 46 PM](https://github.com/user-attachments/assets/25891939-71f6-478c-9835-92acdbbf5b16)
+![WhatsApp Image 2025-02-02 at 3 35 46 PM (1)](https://github.com/user-attachments/assets/7f2afde6-2709-40b6-9cad-f97ec346ffde)
+![WhatsApp Image 2025-02-02 at 3 35 46 PM (2)](https://github.com/user-attachments/assets/0374154c-5d94-44b9-b048-9c1a9ad94eed)
+![WhatsApp Image 2025-02-02 at 3 35 45 PM](https://github.com/user-attachments/assets/552d35b3-32a2-4a6d-a9af-7d2b663eb3de)
+![WhatsApp Image 2025-02-02 at 3 35 45 PM (1)](https://github.com/user-attachments/assets/e3cddb45-e287-46f6-807d-34d3f8c4067b)
+![WhatsApp Image 2025-02-02 at 3 35 42 PM](https://github.com/user-attachments/assets/97342324-50f1-4685-b782-431f53a832f3)
+![WhatsApp Image 2025-02-02 at 3 35 43 PM](https://github.com/user-attachments/assets/24c71611-b01a-4985-b844-5540b64fb651)
+![WhatsApp Image 2025-02-02 at 3 35 41 PM](https://github.com/user-attachments/assets/ca4b5036-3b8a-49c9-905e-5c9d20d2ccfc)
+![WhatsApp Image 2025-02-02 at 3 35 41 PM (1)](https://github.com/user-attachments/assets/36b870cf-1fd9-46a1-8e3d-b01a653193c5)
+![WhatsApp Image 2025-02-02 at 3 35 42 PM (1)](https://github.com/user-attachments/assets/dae551ee-64f9-44a4-b9a0-3412ae19883c)
+![WhatsApp Image 2025-02-02 at 3 35 43 PM (1)](https://github.com/user-attachments/assets/9d7fb5aa-05ab-4aaa-89c7-af0b215758f2)
+![WhatsApp Image 2025-02-02 at 3 35 43 PM (2)](https://github.com/user-attachments/assets/cc9e747d-73a0-4452-8bb5-d81a1a761418)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
