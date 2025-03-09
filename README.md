@@ -1,5 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
+The Roomey Chatroom mobile app, developed in React Native for Android through the CLI, is a seamless extension of the web platform, offering users the flexibility to engage in real-time messaging, audio, and video communication on the go. Built using the MERN stack, the app integrates key features like real-time messaging via Socket.IO, media sharing with Cloudinary, and live voice/video calls powered by ZegoCloud and Agora RTC. It supports multiple room types, including public, private, temporary, and scheduled rooms, ensuring a versatile user experience. The app also incorporates secure user authentication, GitHub API integration for dynamic data fetching, and an automated email system using Nodemailer for notifications. With a focus on performance optimization, the app leverages caching and database indexing to deliver fast and responsive interactions, making it a robust solution for modern communication needs.
 # Getting Started
 <!-- Images Section -->
 <img src="https://github.com/user-attachments/assets/25891939-71f6-478c-9835-92acdbbf5b16" alt="Image 1" width="300" height="500">
